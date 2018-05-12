@@ -33,10 +33,10 @@ body > div.container-lg > h1:first-child {
 }
 
 h1 {
-    font-weight: 100;
+    font-weight: 100 !important;
     letter-spacing: 0.1em;
-    margin-bottom: 1em;
-    border-bottom: none;
+    margin-bottom: 1em !important;
+    border-bottom: none !important;
 }
 
 ul li {
