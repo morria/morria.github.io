@@ -21,7 +21,7 @@ body {
     color: #444;
     margin: 20px auto;
     padding: 20px;
-    max-width: 400px;
+    max-width: 500px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 20px;
@@ -36,6 +36,7 @@ h1 {
     font-weight: 100;
     letter-spacing: 0.1em;
     margin-bottom: 1em;
+    border-bottom: none;
 }
 
 ul li {
@@ -48,7 +49,6 @@ img {
 }
 
 a {
-    color: #0088cc;
-    text-decoration: none;
-}
+    color: #ff7700;
+    text-decoration: none; }
 </style>
