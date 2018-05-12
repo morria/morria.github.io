@@ -28,6 +28,10 @@ body {
     text-rendering: optimizelegibility;
 }
 
+body > div.container-lg > h1:first-child {
+    display: none;
+}
+
 h1 {
     font-weight: 100;
     letter-spacing: 0.1em;
