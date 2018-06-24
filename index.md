@@ -52,5 +52,19 @@ img {
 
 a {
     color: #ff7700;
-    text-decoration: none; }
+    text-decoration: none;
+}
+
+a.pca {
+    background-color: #fc6921;
+    border-radius: 3px;
+    margin: 24px auto;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    width: 250px;
+    padding: 12px 18px;
+    display: block;
+}
+
 </style>

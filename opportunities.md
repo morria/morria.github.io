@@ -34,17 +34,22 @@ body {
     color: #444;
     margin: 20px auto;
     padding: 20px;
-    max-width: 400px;
+    max-width: 500px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 20px;
     text-rendering: optimizelegibility;
 }
 
-h1, h2 {
-    font-weight: 100;
+body > div.container-lg > h1:first-child {
+    display: none;
+}
+
+h1 {
+    font-weight: 100 !important;
     letter-spacing: 0.1em;
-    margin-bottom: 1em;
+    margin-bottom: 1em !important;
+    border-bottom: none !important;
 }
 
 ul li {
@@ -57,7 +62,7 @@ img {
 }
 
 a {
-    color: #0088cc;
+    color: #ff7700;
     text-decoration: none;
 }
 
@@ -72,5 +77,3 @@ a.pca {
     padding: 12px 18px;
     display: block;
 }
-
-</style>
