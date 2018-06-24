@@ -45,7 +45,7 @@ body > div.container-lg > h1:first-child {
     display: none;
 }
 
-h1 {
+h1, h2 {
     font-weight: 100 !important;
     letter-spacing: 0.1em;
     margin-bottom: 1em !important;
