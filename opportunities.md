@@ -73,7 +73,7 @@ a.pca {
     text-align: center;
     color: #fff;
     font-weight: bold;
-    width: 250px;
+    width: 300px;
     padding: 12px 18px;
     display: block;
 }
