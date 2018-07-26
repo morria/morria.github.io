@@ -15,7 +15,7 @@ You can find me at
 * [linkedin.com/in/andrewsmorrison](http://www.linkedin.com/in/andrewsmorrison)
 
 If you'd like to get in touch, [message me via keybase](https://keybase.io/asmorrison).
-If you'd like to ell me about job opportunities [go to https://collapse.io/opportunities](https://collapse.io/opportunities).
+If you'd like to tell me about job opportunities [go to https://collapse.io/opportunities](https://collapse.io/opportunities).
 
 
 <style>
