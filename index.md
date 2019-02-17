@@ -1,8 +1,7 @@
 # Andrew S. Morrison
 
 I live in Brooklyn, New York and am married to [Hannah](https://www.linkedin.com/in/hannah-morrison/).
-I'm employed by [Slack](https://slack.com) as a Senior Staff Software Engineer with the
-[Search, Learning and Intelligence](https://slackhq.com/inside-slacks-search-learning-and-intelligence-team-c77398b6c571) group.
+I'm employed by [Slack](https://slack.com) as the Chief of Staff for Product Engineering.
 Previous to that I had been a Principal Software Engineer at [Etsy](https://etsy.com).
 
 ![Andrew S. Morrison Headshot](andrew_s_morrison.jpg)
