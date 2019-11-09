@@ -10,15 +10,14 @@ me a bit about the position you're looking to fill please
 </a>
 
 Please be respectful and do not send unsolicited email, texts or
-voice messages. I will not share your submissions on the open
-internet, but I may discuss opportunities with close friends.
+voice messages.
 
 ## About me
 
-My name is [Andrew S. Morrison](https://collapse.io)  and I live in Brooklyn, New York
+My name is [Andrew S. Morrison](https://trapzezoid.work)  and I live in Brooklyn, New York
 with my wife [Hannah](https://www.linkedin.com/in/hannah-morrison/).
 I'm employed by [Slack](https://slack.com) as a Senior Staff Software Engineer with the
-[Search, Learning and Intelligence](https://slackhq.com/inside-slacks-search-learning-and-intelligence-team-c77398b6c571) group.
+[Search and Discovery](https://slackhq.com/inside-slacks-search-learning-and-intelligence-team-c77398b6c571) group.
 Previous to that I had been a Principal Software Engineer at [Etsy](https://etsy.com).
 
 ![Andrew S. Morrison Headshot](andrew_s_morrison.jpg)
