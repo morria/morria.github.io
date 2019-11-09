@@ -20,8 +20,6 @@ I'm employed by [Slack](https://slack.com) as a Senior Staff Software Engineer w
 [Search and Discovery](https://slackhq.com/inside-slacks-search-learning-and-intelligence-team-c77398b6c571) group.
 Previous to that I had been a Principal Software Engineer at [Etsy](https://etsy.com).
 
-![Andrew S. Morrison Headshot](andrew_s_morrison.jpg)
-
 You can find me at
 
 * [https://keybase.io/asmorrison](https://keybase.io/asmorrison)
