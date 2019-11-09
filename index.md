@@ -14,7 +14,7 @@ You can find me at
 * [linkedin.com/in/andrewsmorrison](http://www.linkedin.com/in/andrewsmorrison)
 
 If you'd like to get in touch, [message me via keybase](https://keybase.io/asmorrison).
-If you'd like to tell me about job opportunities [go to https://trapezoid.work/opportunities](https://trapezoid.work/opportunities).
+If you'd like to tell me about job opportunities go to [trapezoid.work/opportunities](/opportunities).
 
 
 <style>
