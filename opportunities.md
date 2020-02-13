@@ -3,9 +3,9 @@
 I'm not actively looking for a new job right now but I'm always
 interested in hearing about what's out there. If you'd like to tell
 me a bit about the position you're looking to fill please
-[fill out this form to tell me about the opportunity](https://goo.gl/forms/t9YXBy5Wr6KtNoWq2).
+[fill out this form to tell me about the opportunity](https://forms.gle/X9cKwDurbrk4Z7pt7).
 
-<a href="https://goo.gl/forms/t9YXBy5Wr6KtNoWq2" class="pca">
+<a href="https://forms.gle/X9cKwDurbrk4Z7pt7" class="pca">
     Tell me about a job opportunity
 </a>
 
