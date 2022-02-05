@@ -8,14 +8,8 @@ Previous to that I had been a Principal Software Engineer at [Etsy](https://etsy
 
 You can find me at
 
-* [https://keybase.io/asmorrison](https://keybase.io/asmorrison)
 * [github.com/morria](https://github.com/morria/)
-* [twitter.com/asmorrison](https://twitter.com/asmorrison)
 * [linkedin.com/in/andrewsmorrison](http://www.linkedin.com/in/andrewsmorrison)
-
-If you'd like to get in touch, [message me via keybase](https://keybase.io/asmorrison).
-If you'd like to tell me about job opportunities go to [trapezoid.work/opportunities](/opportunities).
-
 
 <style>
 body {
